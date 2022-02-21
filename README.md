@@ -9,7 +9,7 @@ Olá :)
 
 Na pasta src contém as 3 questões dividas em pacotes.
 
-Na pasta src > teste contém os testes unitários de cada questão. Essas classes são para
+Na pasta src > test contém os testes unitários de cada questão. Essas classes são para
 a execução das questões.
 
 ## Tecnologia utilizadas
